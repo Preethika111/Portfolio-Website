@@ -8,7 +8,7 @@ const projects = [
     description:
       'Developed a responsive portfolio website using HTML, Tailwind CSS, and ReactJS, showcasing projects and skills. Integrated real-time email sending functionality, enabling seamless communication with visitors.',
     image: portfoliopic,
-    link: 'https://github.com/Preethika111/portfolio',
+    link: 'https://github.com/Preethika111/Portfolio-Website',
   },
   {
     title: 'Task Manager',
