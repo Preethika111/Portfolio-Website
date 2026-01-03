@@ -24,7 +24,7 @@ A clean, responsive, and animated portfolio website built using **React**, **Tai
 🌐 Live Preview
 ## Live Demo
 
-[!live demo of portfolio](https://portfolio-preethika111-preethika-geesala-s-projects.vercel.app)
+[!live demo of portfolio]([https://portfolio-nine-rho-41.vercel.app/])
 
 
 ## 🚀 Getting Started
@@ -68,4 +68,4 @@ src/
 
 
 ⭐ Give a Star
-If you like this project, hit on ⭐.(./src/assets/webstars.jpg)
+If you like this project, hit on ⭐!.(./src/assets/webstars.jpg)
